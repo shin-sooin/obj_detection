@@ -45,9 +45,7 @@ SECRET_KEY = get_secret("DJANGO_SECRET_KEY")
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    "210.102.178.94",
-    "127.0.0.1",
-    "0.0.0.0",
+    "52.79.101.117"
 ]
 
 
