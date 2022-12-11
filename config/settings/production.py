@@ -18,6 +18,4 @@ DEBUG = False
 SECRET_KEY = ""
 
 # remember to set this to your expected hostnames
-ALLOWED_HOSTS = [
-    '210.102.178.94'
-]
+ALLOWED_HOSTS = []
